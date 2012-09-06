@@ -1,4 +1,6 @@
-<?php
+
+
+	<?php
 	$gr = '<div style="height:30px;width:30px;background-color:green;float:left;margin-left:5px;border:solid 1px black;">';
 	$wh = '<div style="height:30px;width:30px;background-color:yellow;float:left;margin-left:5px;border:solid 1px black;">';
 	$alp = array("a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z",);
